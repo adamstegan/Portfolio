@@ -14,3 +14,7 @@ These are the skills I have aquired throughout the year both in and out of unive
 
 ## Certificates
 - Try Hack Me Pre security certificate
+
+## Projects
+- Linux Virtual Machine Server
+Setup and configured a Linux machine server in a Virtual Machine environment using a virtual box as part of my university assignment
